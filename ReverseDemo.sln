@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseDemo", "ReverseDemo\ReverseDemo.csproj", "{4BAA3DA3-C697-4280-A5DF-05B1E47264EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BAA3DA3-C697-4280-A5DF-05B1E47264EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BAA3DA3-C697-4280-A5DF-05B1E47264EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BAA3DA3-C697-4280-A5DF-05B1E47264EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BAA3DA3-C697-4280-A5DF-05B1E47264EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F8DCBA3E-2DBD-4305-9DD3-BBBAC9E0E054}
+	EndGlobalSection
+EndGlobal
